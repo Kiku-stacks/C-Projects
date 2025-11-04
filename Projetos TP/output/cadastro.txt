@@ -1,6 +1,1 @@
-bruno, 34
-joao, 34
-maria, 23
-jose, 45
-leticia , 18
-chico, 67
+Bruno, 34
